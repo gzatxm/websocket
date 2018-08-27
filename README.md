@@ -1,4 +1,4 @@
-**基于github.com/gobwas/ws库开发的server端**<br />
+**基于github.com/gobwas/ws库开发的server端框架**<br /><br />
 **Example**
 ```
 go get github.com/gobwas/ws
